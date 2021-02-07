@@ -6,9 +6,13 @@
 1.  Build a full scale Sinatra application that uses:
 
 - A sqlite database
+
 - ActiveRecord
+
 - RESTful routes
+
 - Sessions
+
 - Login/Logout
 
 ## Overview
