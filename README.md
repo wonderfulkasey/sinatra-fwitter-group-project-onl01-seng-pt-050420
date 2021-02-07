@@ -2,6 +2,7 @@
 
 ## Objectives
 
+
 1.  Build a full scale Sinatra application that uses:
 
 - A sqlite database
